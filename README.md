@@ -24,10 +24,7 @@
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![Bhoomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhoomi-1401&show_icons=true&theme=tokyonight)
 
-![Bhoomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhoomi-1401&show_icons=true&theme=radical)
-
-![Streak Stats](https://streak-stats.demolab.com?user=Bhoomi-1401&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomi-1401&layout=compact&theme=tokyonight)
