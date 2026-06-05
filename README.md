@@ -24,6 +24,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Bhoomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhoomi-1401&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomi-1401&layout=compact&theme=tokyonight)
+![Bhoomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhoomi-1401&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomi-1401&layout=compact&theme=tokyonight&cache_seconds=1800)
