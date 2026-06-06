@@ -22,9 +22,3 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![Bhoomi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhoomi-1401&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomi-1401&layout=compact&theme=tokyonight)
