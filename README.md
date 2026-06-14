@@ -1,24 +1,172 @@
-# 💫 About Me:
-Deep Learning and ML projects including neural networks, CNNs, and NLP applications using TensorFlow and Keras<br>Data Science, Machine Learning, NLP, and Business Intelligence projects<br>HuggingFace Transformers, LangChain, and FastAPI for ML model deployment<br>Transformer models, LLMs, HuggingFace, and GenAI application development<br>Machine Learning, Deep Learning, EDA, Power BI dashboards, Python, and Streamlit deployment<br>I built and deployed 3 live ML apps as a 2nd-year student and benchmarked 13 algorithms to find the best one!
+<div align="center">
 
+# Bhoomi Thakur
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nvm._.bhoomiiie_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhoomi-thakur-0301aa330) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Bhoomi Thakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhoomi.thakur168@gmail.com) 
+**AI & ML Engineer · Data Scientist · 3rd Year @ SAGE University, Indore**
 
-# 💻 Tech Stack:
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Bhoomi-1401&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Bhoomi-1401&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bhoomi-1401&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![ML](https://img.shields.io/badge/Machine%20Learning-Supervised%20%26%20Unsupervised-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Bhoomi-1401)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-In%20Progress-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/Bhoomi-1401)
+[![Live App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://creditwise-loan-system-mdakffrhbi92hyvazerlta.streamlit.app)
+[![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-2ea043?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/Bhoomi-1401)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhoomi-1401&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Profile Views](https://komarev.com/ghpvc/?username=Bhoomi-1401&color=58a6ff&style=flat-square&label=Profile+Views)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bhoomi-1401&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Bhoomi-1401&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+```python
+class BhoomiThakur:
+    def __init__(self):
+        self.university   = "SAGE University, Indore"
+        self.year         = "3rd Year"
+        self.focus        = ["Machine Learning", "Deep Learning", "Data Science"]
+        self.deployed     = ["CreditWise Loan System — 86.5% accuracy, live on Streamlit"]
+        self.currently    = "Exploring Deep Learning & Neural Networks"
+        self.goal         = "Open to internships & collaborations 🚀"
+
+    def say_hi(self):
+        print("Built a live ML app with 86.5% accuracy as a 3rd-year student.")
+        print("Just getting started.")
+```
+
+---
+
+## 📌 Pinned Projects
+
+### 🏦 [CreditWise Loan System](https://github.com/Bhoomi-1401/creditwise-loan-system)
+> ML web app predicting loan approvals — deployed live on Streamlit
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://creditwise-loan-system-mdakffrhbi92hyvazerlta.streamlit.app)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Bhoomi-1401/creditwise-loan-system)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/Bhoomi-1401/creditwise-loan-system)
+
+- 🎯 **86.5% accuracy** using Naive Bayes classifier
+- 📊 Trained & tested on 1000+ applicant records
+- 🚀 Fully deployed as an interactive Streamlit web app
+- 🔍 Covers data cleaning, EDA, model selection & deployment
+
+---
+
+### 🏏 [IPL Business Intelligence Analysis](https://github.com/Bhoomi-1401/IPL-Business-Intelligence-Analysis)
+> End-to-end analytics & forecasting dashboard for IPL performance data
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Bhoomi-1401/IPL-Business-Intelligence-Analysis)
+[![SQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)](https://github.com/Bhoomi-1401/IPL-Business-Intelligence-Analysis)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/Bhoomi-1401/IPL-Business-Intelligence-Analysis)
+
+- 📈 Combined Python + SQL + Power BI for a full BI pipeline
+- 🏟️ Analyzed player & team performance trends across seasons
+- 📊 Interactive Power BI dashboard with filters & KPIs
+- 🔎 Deep EDA with Pandas, Matplotlib & Plotly
+
+---
+
+### 🌐 [GDG Mini Project](https://github.com/Bhoomi-1401/GDG-mini-project)
+> Web project built for Google Developer Group event
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/Bhoomi-1401/GDG-mini-project)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/Bhoomi-1401/GDG-mini-project)
+[![GDG](https://img.shields.io/badge/Google%20Developer%20Group-4285F4?style=flat-square&logo=google&logoColor=white)](https://github.com/Bhoomi-1401/GDG-mini-project)
+
+- 🌍 Built for a Google Developer Group community event
+- 🎨 Frontend design with data integration
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Machine Learning & Data Science**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Deployment & Tools**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bhoomi-1401&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhoomi-1401&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Bhoomi-1401&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+---
+
+## 🗺️ Learning Roadmap
+
+| Status | Topic | Details |
+|--------|-------|---------|
+| ✅ Done | Supervised & Unsupervised ML | Regression, Classification, Clustering, Scikit-learn |
+| ✅ Done | Data Science & EDA | Pandas, NumPy, Plotly, Power BI dashboards |
+| ✅ Done | ML Deployment | Streamlit live app, FastAPI, requirements.txt |
+| ⚡ In Progress | Deep Learning | Neural Networks, CNNs, TensorFlow, Keras |
+| ⬜ Next | NLP & Transformers | HuggingFace, BERT, text classification |
+| ⬜ Next | MLOps | Docker, CI/CD, model monitoring |
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhoomi-1401/Bhoomi-1401/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhoomi-1401/Bhoomi-1401/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Bhoomi-1401/Bhoomi-1401/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📅 Contribution Heatmap
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhoomi-1401&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f3a5f" />
+
+</div>
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhoomi-thakur)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomi.thakur168@gmail.com)
+[![Live App](https://img.shields.io/badge/CreditWise%20Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://creditwise-loan-system-mdakffrhbi92hyvazerlta.streamlit.app)
+
+---
+
+<div align="center">
+  <i>"Built a live ML app with 86.5% accuracy as a 3rd-year student — just getting started."</i>
+</div>
