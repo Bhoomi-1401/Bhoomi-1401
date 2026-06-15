@@ -1,8 +1,7 @@
 <div align="center">
 
-# Bhoomi Thakur
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=220&section=header&text=Bhoomi%20Thakur&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%203rd%20Year%20%40%20SAGE%20University&descAlignY=58&descSize=16&animation=fadeIn)
 
-**AI & ML Engineer · Data Scientist · 3rd Year @ SAGE University, Indore**
 
 [![ML](https://img.shields.io/badge/Machine%20Learning-Supervised%20%26%20Unsupervised-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Bhoomi-1401)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-In%20Progress-orange?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/Bhoomi-1401)
@@ -170,3 +169,5 @@ class BhoomiThakur:
 <div align="center">
   <i>"Built a live ML app with 86.5% accuracy as a 3rd-year student — just getting started."</i>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=fadeIn)
