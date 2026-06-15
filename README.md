@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=220&section=header&text=Bhoomi%20Thakur&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%203rd%20Year%20%40%20SAGE%20University&descAlignY=58&descSize=16&animation=fadeIn)
+# 👋 Hi, I'm Bhoomi Thakur
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Data+Scientist;3rd+Year+%40+SAGE+University+Indore;Built+a+live+ML+app+with+86.5%25+accuracy!;Open+to+Internships+%F0%9F%9A%80)](https://github.com/Bhoomi-1401)
 
 
 [![ML](https://img.shields.io/badge/Machine%20Learning-Supervised%20%26%20Unsupervised-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Bhoomi-1401)
@@ -170,4 +172,4 @@ class BhoomiThakur:
   <i>"Built a live ML app with 86.5% accuracy as a 3rd-year student — just getting started."</i>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=fadeIn)
+
